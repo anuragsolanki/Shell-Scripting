@@ -2,7 +2,7 @@ version:1.0
 
 this is second line
 
-and another line 
+and another line
 
 to check that later lines are not changed while copying..
 

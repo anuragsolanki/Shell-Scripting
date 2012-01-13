@@ -1,6 +1,6 @@
 #! /bin/bash
-SOURCE=~/project/abc/1.0/code/
-DESTINATION=~/project/abc/2.0/code/
+SOURCE=./project/abc/1.0/code/
+DESTINATION=~/Shell-Scripting/version_change/project/abc/2.0/code/
 
 cd $SOURCE
 for filename in *
