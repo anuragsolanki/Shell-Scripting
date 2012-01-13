@@ -1,0 +1,10 @@
+version:1.0
+
+this is first file
+
+and another line
+
+any other line in this file will not get changed and will be copied exactly to new location.
+
+This version:1.0 will not change.
+
